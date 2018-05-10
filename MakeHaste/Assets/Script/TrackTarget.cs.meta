@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 335a68f355a6fc14ea2206a3a5850463
+timeCreated: 1523829241
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - graveyard: {fileID: 1193334919732792, guid: dca98d6e962a64592bae068aa73676b7,
+      type: 2}
+  - plank: {fileID: 1044537033185766, guid: d5caabf85bef64e56867d34df152e7cd, type: 2}
+  - pyramid: {fileID: 1542297513770266, guid: 3fa098cfb84304e10a4ffa5bba8e979f, type: 2}
+  - maze1: {fileID: 1558471336845544, guid: 3196b415abec0481586a4248584f452c, type: 2}
+  - rotatingTomb: {fileID: 1360242312171186, guid: 20625bc869f37e742afcf165e8effee7,
+      type: 2}
+  - movingPlatforms: {fileID: 1531375784770260, guid: 3b78d61e7675b4f5a86a4d913faabc9e,
+      type: 2}
+  - timer: {instanceID: 0}
+  - winStatus: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - statusText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
